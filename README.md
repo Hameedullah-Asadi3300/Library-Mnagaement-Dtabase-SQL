@@ -20,6 +20,10 @@ Ensure that if a branch has a book, it has at least two copies of it. (To clarif
 g. Inserted into the BOOK_LOANS table 10 rows including values in the following columns:
 BookID, BranchID, CardNo, DateOut, DateDue (Each BORROWER may have more than one book checked out).
 
+
+##This project also includes a full outer join of three tables showing in following schema:
+![image](https://github.com/Hameedullah-Asadi3300/https---github.com-Hameedullah-Asadi3300-Library-Mnagaement-Dtabase-SQL/assets/123219655/19726a9b-0980-4f22-a0c9-2a802938e1c6)
+
 ##This database contains three stored procedure as follows:
 Complete these actions:
 A. How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?
