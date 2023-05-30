@@ -28,7 +28,5 @@ A. How many copies of the book titled "The Lost Tribe" are owned by the library 
 B. How many copies of the book titled "The Lost Tribe" are owned by each library branch?
 C. Retrieve the names of all borrowers who do not have any books checked out.
 
-![5](https://github.com/Hameedullah-Asadi3300/https---github.com-Hameedullah-Asadi3300-Library-Mnagaement-Dtabase-SQL/assets/123219655/22618a58-e2c5-4d24-8305-ed125314a754)
-
 
 
