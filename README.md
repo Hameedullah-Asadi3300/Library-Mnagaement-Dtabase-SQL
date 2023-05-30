@@ -16,11 +16,15 @@ This database is made of seven tables as follows:
     f. Inserted values for the following columns: Number_of_Copies, BookID, and BranchID.
 7. book_loans
     g. Inserted 10 rows including values in the columns; BookID, BranchID, CardNo, DateOut, and DateDue
+ 
+ ##Schema
+![5](https://github.com/Hameedullah-Asadi3300/https---github.com-Hameedullah-Asadi3300-Library-Mnagaement-Dtabase-SQL/assets/123219655/8c33ed1c-5fb5-41a6-abc8-f925be950bf5)
 
 ##Joins
 This project also includes a full outer join of three tables showing in following schema:
 SELECT * FROM ((book_loans FULL OUTER JOIN borrower ON book_loans.CardNo =
 borrower.CardNo) FULL OUTER JOIN books ON book_loans.BookID = books.BookID)
+##Schema![6](https://github.com/Hameedullah-Asadi3300/https---github.com-Hameedullah-Asadi3300-Library-Mnagaement-Dtabase-SQL/assets/123219655/81cd6426-4da9-4e6b-a981-f569df234db9)
 
 ##Stored Procedure
 This database contains three stored procedure to get the following output:
