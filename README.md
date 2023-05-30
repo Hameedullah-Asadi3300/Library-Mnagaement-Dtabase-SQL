@@ -1,11 +1,14 @@
 ##Library-Mnagaement-Dtabase-SQL
+
+
 This database is made of seven tables as following schema:
+
 ![image](https://github.com/Hameedullah-Asadi3300/https---github.com-Hameedullah-Asadi3300-Library-Mnagaement-Dtabase-SQL/assets/123219655/6587dfa6-163b-4a75-872a-91649dac32ba)
-Database.
-Tables.
-Columns.
-Primary keys.
-Foreign keys.
+Database
+Tables
+Columns
+Primary keys
+Foreign keys
 a. Inserted into the LIBRARY_BRANCH table 6 values of your choosing with the exception that one branch name is “Sharpstown.”
 Createed values for the following columns: BranchName and BranchAddress.
 b. Inserted into the BORROWER table 8 values of your choosing for the following columns: CardNo, Name, Address and Phone.
