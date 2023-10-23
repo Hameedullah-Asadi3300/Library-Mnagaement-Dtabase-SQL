@@ -1,4 +1,4 @@
-##Library-Mnagaement-Dtabase-SQL
+##Library-Mnagaement-Database-SQL
 
 
 This database is made of seven tables as follows:
